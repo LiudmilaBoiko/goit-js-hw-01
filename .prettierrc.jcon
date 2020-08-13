@@ -1,12 +1,12 @@
 {
-  « ширина печати » : 80 ,
+  « printWidth » : 80 ,
   " tabWidth " : 2 ,
-  " useTabs " : ложь ,
-  " полу " : правда ,
-  " singleQuote " : правда ,
-  " trailingComma " : " все " ,
-  " cketSpacing " : правда ,
-  " jsxBracketSameLine " : ложь ,
-  « arrowParens » : « избегать » ,
-  " proseWrap " : " всегда "
+  " useTabs " : false ,
+  " semi " : true ,
+  " singleQuote " : true ,
+  " trailingComma " : " all " ,
+  " bracketSpacing " : true ,
+  " jsxBracketSameLine " : false ,
+  « arrowParens » : « avoid » ,
+  " proseWrap " : " always "
 }
